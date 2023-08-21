@@ -2,7 +2,7 @@ MADHUSUDAN NAVANI :scorpion:
 
 *A DevOps Learner*
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg](https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#attid%253Datt_150f653ad078bae7_0.2_f_iguqbf3l1)
 
 ### Hi there 👋
 
