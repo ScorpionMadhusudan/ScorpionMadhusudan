@@ -1,4 +1,4 @@
-MADHUSUDAN NAVANI :scorpion:
+**MADHUSUDAN NAVANI** :scorpion:
 
 *A DevOps Learner*
 
