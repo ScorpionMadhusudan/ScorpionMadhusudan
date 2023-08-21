@@ -1,4 +1,4 @@
-#MADHUSUDAN NAVANI
+MADHUSUDAN NAVANI
 
 ### Hi there 👋
 
